@@ -1,0 +1,10 @@
+.trendstat-panel-value-container{
+ /* background-color: rgb(52, 217, 247); */
+}
+.trendstat-panel-pct{
+    /* padding-left: 15px; */
+}
+.trendstat-panel-value{
+    padding-left: 15px;
+    padding-right: 15px;
+}
